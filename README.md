@@ -1,16 +1,16 @@
-### Hi there 👋
+<p align="center">
+  <br><br>
+  <samp>
+    :wave: Hi! I am a Full-stack Software Engineer.
+  </samp>
+</p>
 
-<!--
-**zacheryconverse/zacheryconverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<details>
+  <summary><b>a bit about me</b></summary>
+  ### Hi there 👋
+- 💬 Ask me about ... Rock Climbing!
+- 📫 How to reach me: ... zacheryconverse@gmail.com
+- ⚡ Fun fact: ... I'm 7 feet tall
 -->
+</details>
+ 
