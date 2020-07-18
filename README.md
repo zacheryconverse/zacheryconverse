@@ -8,9 +8,8 @@
 <details>
   <summary><b>a bit about me</b></summary>
   ### Hi there 👋
-- 💬 Ask me about ... Rock Climbing!
-- 📫 How to reach me: ... zacheryconverse@gmail.com
-- ⚡ Fun fact: ... I'm 7 feet tall
--->
+<br>- 💬 Ask me about ... Rock Climbing!
+<br>- 📫 How to reach me: ... zacheryconverse@gmail.com
+<br>- ⚡ Fun fact: ... I'm 7 feet tall
 </details>
  
