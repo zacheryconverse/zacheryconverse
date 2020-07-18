@@ -1,7 +1,7 @@
 <p align="center">
   <br><br>
   <samp>
-    :wave: Hi! I am a Full-stack Software Engineer.
+    :wave: Hi! I am a Full-Stack Software Engineer.
   </samp>
 </p>
 
