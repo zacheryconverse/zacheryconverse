@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=zacheryconverse&hide=stars&count_private=true&show_icons=true&theme=merko">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=zacheryconverse&hide=stars&count_private=true&show_icons=true&theme=gradient">
 
 [![linkedin](https://img.shields.io/static/v1?label=linkedin&message=%20&color=e3be7a&logo=&style=flat-square&logoColor=orange)](https://www.linkedin.com/in/zachery-converse/)
 [![e-mail](https://img.shields.io/static/v1?label=e-mail&message=%20&color=68835c&logo=gmail&style=flat-square&logoColor=white)](mailto:zacheryconverse@gmail.com)
