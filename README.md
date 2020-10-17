@@ -1,3 +1,9 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=zacheryconverse&show_icons=true&theme=radical">
+
+[![linkedin](https://img.shields.io/static/v1?label=linkedin&message=%20&color=e3be7a&logo=&style=flat-square&logoColor=orange)](https://www.linkedin.com/in/zachery-converse/)
+[![e-mail](https://img.shields.io/static/v1?label=e-mail&message=%20&color=68835c&logo=gmail&style=flat-square&logoColor=white)](mailto:zacheryconverse@gmail.com)
+
+
 <p align="center">
   <br><br>
   <samp>
