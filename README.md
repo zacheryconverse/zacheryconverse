@@ -7,7 +7,7 @@
 <p align="center">
   <br><br>
   <samp>
-    :wave: Hi! - Full-Stack Software Engineer - looking for next professional opportunity in Boulder, Colorado.
+    :wave: Hi! - Full-Stack Software Engineer - in Boulder, Colorado.
   </samp>
 </p>
 
