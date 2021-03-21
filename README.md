@@ -14,8 +14,8 @@
 <details>
   <summary><b>a bit about me</b></summary>
 
-<br>- 💬 Ask me about ... Rock Climbing! Whether it's trad, sport, gym, rope-solo aid, or big walling
-<br>- 📫 How to reach me: ... zacheryconverse@gmail.com 
-<br>- ⚡ Fun fact: ... I'm 7 feet tall
+<br>- 💬 Ask me about ... Rock Climbing! Whether it's trad, sport, gym, rope-solo aid, or big walling 💥
+<br>- 📫 How to reach me: ... zacheryconverse@gmail.com 📨
+<br>- ⚡ Fun fact: ... I'm 7 feet tall & I love to dance 😎
 </details>
  
