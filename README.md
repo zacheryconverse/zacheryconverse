@@ -19,3 +19,9 @@
 <br>- ⚡ Fun fact: ... I'm 7 feet tall & I love to dance 😎
 </details>
  
+---
+ 
+ 🧰 Toolbox
+
+<img src='https://www.dreamstime.com/javascript-logo-editorial-illustrative-white-background-javascript-logo-editorial-illustrative-white-background-eps-download-image208329460' alt='JavaScript Logo' width='50' height='50' />
+---
