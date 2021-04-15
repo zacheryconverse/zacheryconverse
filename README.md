@@ -23,7 +23,16 @@
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="Node Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" alt="HTML Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/npm-square-red-1.svg" alt="NPM Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/postgresql-inc.svg" alt="PostgreSQL Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" alt="MongoDB Logo" width="50" height="50"/>
 
 ---
 
