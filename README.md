@@ -23,5 +23,5 @@
  
  🧰 Toolbox
 
-<img src='https://www.dreamstime.com/javascript-logo-editorial-illustrative-white-background-javascript-logo-editorial-illustrative-white-background-eps-download-image208329460' alt='JavaScript Logo' width='50' height='50' />
+<img src='https://cdn.worldvectorlogo.com/logos/javascript.svg' alt='JavaScript Logo' width='50' height='50' />
 ---
