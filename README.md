@@ -5,7 +5,7 @@
 <p align="center">
   <br><br>
   <samp>
-    :wave: Hi! - Full-Stack Software Engineer - in Boulder, Colorado.
+    :wave: Hi! - Full-Stack Software Engineer - in Boulder, Colorado. Most of my recent work has been on private repositories, which explains the quieter nature of this public account. I'm passionate about creating robust and user-friendly applications, and I enjoy tackling complex problems with innovative solutions.
   </samp>
 </p>
 
