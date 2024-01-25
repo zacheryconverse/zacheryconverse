@@ -4,9 +4,7 @@
 <a href="https://twitter.com/ztconverse" target="_blank">
     <img src="https://img.shields.io/static/v1?label=Twitter&message=%20&color=1b81c1&logo=Twitter&style=flat-square&logoColor=white" alt="Twitter">
 </a>
-<a href="mailto:zacheryconverse@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=e-mail&message=%20&color=68835c&logo=gmail&style=flat-square&logoColor=white" alt="e-mail">
-</a>
+[![e-mail](https://img.shields.io/static/v1?label=e-mail&message=%20&color=68835c&logo=gmail&style=flat-square&logoColor=white)](mailto:zacheryconverse@gmail.com)
 
 <p align="center">
   <br><br>
