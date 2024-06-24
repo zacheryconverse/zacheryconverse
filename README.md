@@ -11,7 +11,7 @@
 <p align="center">
   <br><br>
   <samp>
-    :wave: Hi! - Full-Stack Software Engineer - in Boulder, Colorado. Most of my recent work has been on private repositories, which explains the quieter nature of this public account. I'm passionate about creating robust and user-friendly applications, and I enjoy tackling complex problems with innovative solutions.
+    :wave: Hi! - Full-Stack Software Engineer - in Boulder, Colorado. Much of my work over the past couple years has been on a work account, which explains the quieter nature of this public account. I'm passionate about creating user-friendly applications, and I enjoy tackling complex problems with innovative solutions.
   </samp>
 </p>
 
