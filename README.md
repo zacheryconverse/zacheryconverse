@@ -1,9 +1,6 @@
 <a href="https://www.linkedin.com/in/zachery-converse/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=linkedin&message=%20&color=e3be7a&logo=&style=flat-square&logoColor=orange" alt="linkedin">
 </a>
-<a href="https://twitter.com/ztconverse" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=Twitter&message=%20&color=1b81c1&logo=Twitter&style=flat-square&logoColor=white" alt="Twitter">
-</a>
 <a href="mailto:zacheryconverse@gmail.com">
     <img src="https://img.shields.io/static/v1?label=e-mail&message=%20&color=68835c&logo=gmail&style=flat-square&logoColor=white" alt="e-mail">
 </a>
