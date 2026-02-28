@@ -1,31 +1,53 @@
-<a href="https://www.linkedin.com/in/zachery-converse/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=linkedin&message=%20&color=e3be7a&logo=&style=flat-square&logoColor=orange" alt="linkedin">
-</a>
-<a href="mailto:zacheryconverse@gmail.com">
-    <img src="https://img.shields.io/static/v1?label=e-mail&message=%20&color=68835c&logo=gmail&style=flat-square&logoColor=white" alt="e-mail">
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/zachery-converse/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Zachery%20Converse-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:zacheryconverse@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://vol.flights" target="_blank">
+    <img src="https://img.shields.io/badge/Vol-vol.flights-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<h1 align="center">Zachery Converse</h1>
 
 <p align="center">
-  <br><br>
-  <samp>
-    :wave: Hi! Software Engineer - in Sacramento, California. Much of my work over the past few years has been on BitBucket, which explains the quieter nature here.
-  </samp>
+  Software Engineer - Web, Mobile, Frontend Backend, Infrastructure<br/>
+  Sacramento, California
+</p>
+
+## About
+
+Much of my professional work lives in Bitbucket, which explains the lighter activity here.
+
+I’m the founder and head engineer of <a href="https://vol.flights" target="_blank"><strong>Vol</strong></a> - a popular social app for paragliding that I built end to end across mobile, backend, and cloud infrastructure.
+
+I’ve worked across Series funded startups, PE-backed growth companies operating at scale, and post acquisition teams within publicly traded companies.
+
+I was also a core product engineer to the open-source <a href="https://getstream.io/chat/sdk/react/" target="_blank"><strong>Stream React Chat SDK</strong></a> - software used in applications serving over a billion end users.
+
+## Core Stack
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" />
 </p>
 
 <details>
-  <summary><b>a bit about me</b></summary>
+<summary><strong>Outside of Work</strong></summary>
 
-<br>- 💬 Ask me about ... Rock Climbing! Whether it's trad, sport, gym, rope-solo aid, or big walling 💥
-<br>- 📫 How to reach me: ... zach@vol.flights 📨
-<br>- ⚡ Fun fact: ... I'm 7 feet tall 😳
+Paragliding 🪂  
+Rock Climbing 🧗‍♂️  
+Skiing 🎿  
+Wing foiling 🏄‍♂️  
+
 </details>
- 
----
-
-🧰 Toolbox
-
-<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="Node Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB Logo" width="50" height="50"/> <img src="https://ih1.redbubble.net/image.438908244.6144/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.u2.jpg" alt="Express Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/docker-3.svg" alt="Docker Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/jest-2.svg" alt="Jest Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="Linux Logo" width="50" height="50"/>
-
-
----
-
