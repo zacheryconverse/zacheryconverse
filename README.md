@@ -13,7 +13,7 @@
 <h1 align="center">Zachery Converse</h1>
 
 <p align="center">
-  Software Engineer - Web, Mobile, Frontend Backend, Infrastructure<br/>
+  Software Engineer - Web, Mobile, Frontend, Backend, Infrastructure<br/>
   Sacramento, California
 </p>
 
